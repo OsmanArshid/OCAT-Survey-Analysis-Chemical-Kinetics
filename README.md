@@ -1,7 +1,5 @@
 # Chemical Kinetics - Organizational Culture Analysis
 
----
-
 ## Project Overview
 This project analyzes the relationship between organizational culture and task performance within **Chemical Kinetics**, a company specializing in chemical and technical services. The analysis is based on survey data collected from employees and is visualized using Python, Pandas, Matplotlib, and Seaborn in a Jupyter Notebook.
 
