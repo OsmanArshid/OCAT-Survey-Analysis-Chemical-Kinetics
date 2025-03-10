@@ -60,9 +60,7 @@ pip install pandas matplotlib seaborn notebook
 
 ### **Running the Jupyter Notebook**
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Chemical-Kinetics-Analysis.git
-   ```
+
 2. Navigate to the project folder:
    ```bash
    cd Chemical-Kinetics-Analysis
@@ -77,6 +75,3 @@ pip install pandas matplotlib seaborn notebook
 
 ## Contact
 For questions or suggestions, reach out via LinkedIn
-```
-
-
